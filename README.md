@@ -1,2 +1,23 @@
 # prototypes
 This is for trying out interesting things.
+
+## Overview
+A workspace for proof-of-concept projects and exploring emerging technologies. Use this space to experiment, prototype, and validate new ideas before integrating them into production systems.
+
+## Purpose
+- Evaluate new frameworks and tools
+- Test architectural patterns
+- Prototype features and implementations
+- Document lessons learned
+
+## Getting Started
+Each prototype should include its own README with setup instructions and dependencies.
+
+## Structure
+```
+prototypes/
+├── [project-name]/
+│   ├── README.md
+│   └── src/
+```
+
